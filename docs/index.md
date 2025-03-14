@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Thinking in Types"
   text: "Building Stubbornly Resilient Libraries in Python"
-  tagline: My great project tagline
+  tagline: A Book by Bruce Eckel
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
