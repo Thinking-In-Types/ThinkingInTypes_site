@@ -8,7 +8,7 @@ hero:
   tagline: A Book by Bruce Eckel
   actions:
     - theme: brand
-      text: Introduction
+      text: Chapters
       link: /02 Introduction
     - theme: alt
       text: Vitepress Docs
